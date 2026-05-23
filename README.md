@@ -4,7 +4,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-deployed-red.svg)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-ML-powered risk assessment platform for land parcels across Nigeria's Middle Belt and North-Central states — identifying high-conflict zones and supporting mediators, governors, and land registries in prioritising interventions.
+ML-powered risk assessment platform for land parcels across Nigeria's Middle Belt and North-Central states, identifying high-conflict zones and supporting mediators, governors, and land registries in prioritising interventions.
 
 ---
 
@@ -18,7 +18,7 @@ Land conflicts kill thousands in Nigeria annually. The Middle Belt farmer-herder
 
 | Feature | Description |
 |---------|-------------|
-| 4-Tier Risk Classifier | Gradient Boosting — Low / Medium / High / Critical |
+| 4-Tier Risk Classifier | Gradient Boosting, Low / Medium / High / Critical |
 | 5,000 Parcel Records | Covering 12 Middle Belt and North-Central states |
 | Conflict Type Breakdown | Farmer-herder, boundary, land grabbing, ethnic claim |
 | Documentation Score Analysis | Correlation between land registry quality and conflict risk |
@@ -76,5 +76,5 @@ streamlit run streamlit_app.py
 
 ## Author
 
-**Momah Moses** — Geospatial AI Engineer & Data Scientist
+**Momah Moses**, Geospatial AI Engineer & Data Scientist
 [GitHub](https://github.com/Momahmoses) · [Portfolio](https://momahmoses-ng-gis-portfolio.hf.space)
